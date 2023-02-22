@@ -6,7 +6,8 @@
 Welcome to django_cityloc_pkg_julianaxxx's documentation!
 =========================================================
 
-
+..automodule:: django_cityloc_pkg_julianaxxx
+   ::memebers:
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
